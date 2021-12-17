@@ -1,0 +1,13 @@
+! 2021-09-18 https://zhuanlan.zhihu.com
+heifetz/*.signflow.*.js
+heifetz/*.signflow.*.css
+
+! 2021-10-20 https://www.javazhiyin.com
+www.javazhiyin.com##.alertInfo
+www.javazhiyin.com##.layui-layer-content
+www.javazhiyin.com###layui-layer-shade1
+www.javazhiyin.com##.layui-layer-page.layui-layer
+
+! 2021-11-16 https://tieba.baidu.com
+tieba.baidu.com##.tieba-custom-pass-login
+
